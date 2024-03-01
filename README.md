@@ -18,5 +18,6 @@ used a custom prompt to generate summary of provided article and get which topic
 To perforn the third task:-<br>
 I used Selenium once again to access the google form and use xpath of various field to input information and click submit this was looped a thousand times.<br>
 
-For Testing and Replication purposes i have recreated the form you can make a copy of the form on your device and use as you see fit i have also provided the code to do the same.\n
+For Testing and Replication purposes i have recreated the google form you can make a copy of the form on your device and use as you see fit i have also provided the code to do the same.<br>
+i will provide screenshots of google form that one can use to make a copy of original google form<br>
 
